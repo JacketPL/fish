@@ -1,6 +1,7 @@
 <h1> 三天打鱼，两天晒网</h1>
 <h2>流程图 </h2>
-![1](https://github.com/JacketPL/fish/blob/master/liu.png)
+
+![1](https://raw.githubusercontent.com/JacketPL/fish/master/liu.png)
 
 
 
